@@ -65,28 +65,6 @@ Update `app/page.tsx`:
 next dev --turbopack
 ```
 
-## 9. Initialize Git Repository
-```bash
-git init
-git add .
-git commit -m "Initial commit: Basic theme implementation with shadcn/ui"
-```
-
-## 10. Create GitHub Repository
-1. Create new repository on GitHub
-2. Link local repository
-```bash
-git remote add origin https://github.com/[username]/shadcn-theming-demo.git
-git push -u origin main
-```
-
-## 11. Add Documentation
-Create the following files:
-- README.md
-- LICENSE
-- .gitignore
-- RECREATE.md
-
 ## Project Structure
 ```
 shadcn-theming-demo/
